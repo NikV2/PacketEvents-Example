@@ -1,0 +1,5 @@
+name: Test
+version: ${project.version}
+main: me.nik.test.Test
+api-version: 1.13
+depend: [ProtocolLib]
